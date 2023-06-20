@@ -79,7 +79,6 @@ body.multiple-scenes.mobile #titleBar {
   height: 100%;
   line-height: 60px;
   padding: 5px;  
-  background: linear-gradient(0deg, rgba(0,0,0,0) 1%, rgba(0,0,0, 0.28) 100%);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
