@@ -30,10 +30,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.0586377821146673,
-          "pitch": 0.33779974185796746,
+          "yaw": 3.067748467077034,
+          "pitch": 0.2933400803076527,
           "rotation": 0,
-          "target": "0-enter"
+          "target": "1-apartments"
         }
       ],
       "infoHotspots": []
